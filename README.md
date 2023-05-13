@@ -1,8 +1,15 @@
-# Payment-Icon
+# 💸 Payment-Icon 💸
 
 An repository contains a comprehensive collection of icons for various payment methods, banks, and wallets in Malaysia. </br>
 These icons can be easily accessed and used by developers and designers to enhance the visual representation of their payment-related projects. </br>
-Anyone who has access to the repository is welcome to add, modify, or improve the existing collection of icons.
+Anyone who has access to the repository is welcome to add, modify, or improve the existing collection of icons. </br>
+
+### 📏 Format 📐 </br>
+- Size: 180*180  </br>
+- Corner Radius: 15 </br>
+- Type: Square/Rounded/Transparent
+
+</br>
 
 Category: 
 - [E-Wallet](#e-wallet)
@@ -11,28 +18,31 @@ Category:
 - [Mobile](#mobile)
 - [Bank](#bank)
 
-# E-Wallet
+</br>
 
-- Alipay
-- Alipay+
-- Binfinite
-- Boost
-- FavePay
-- Gopayz
-- Lazada
-- MAE
-- MCash
-- Presto
-- Razer
-- SarawakPay
-- TNG
-- Tapay
-- Truemoney
-- WechatPay
-- Zapp
+## E-Wallet
+- [Alipay](#alipay)
+- [Alipay+](#alipay-plus)
+- [Binfinite](#binfinite)
+- [Boost](#boost)
+- [FavePay](#favepay)
+- [Gopayz](#gopayz)
+- [Lazada](#lazada)
+- [MAE](#mae)
+- [MCash](#mcash)
+- [Presto](#presto)
+- [Razer](#razer)
+- [SarawakPay](#sarawakpay)
+- [TNG](#tng)
+- [Tapay](#tapay)
+- [Truemoney](#truemoney)
+- [WechatPay](#wechatpay)
+- [Zapp](#zapp)
 
+</br>
+</br>
 
-## <img width="24" height="24" alt="image" src="./Wallet/Alipay/Alipay_V1_Square.svg"> Alipay
+### Alipay
 
 Source:</br>
 
@@ -44,7 +54,7 @@ Source:</br>
 | V2 | <img width="90" height="90" alt="image" src="./Wallet/Alipay/Alipay_V2_Square.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Alipay/Alipay_V2_Rounded.svg"> |
 
 
-## <img width="24" height="24" alt="image" src="./Wallet/AlipayPlus/AlipayPlus_V1_Square.svg"> Alipay+ 
+### Alipay Plus 
 
 Source:</br>
 
@@ -56,7 +66,7 @@ Source:</br>
 | V2 | <img width="90" height="90" alt="image" src="./Wallet/AlipayPlus/AlipayPlus_V2_Square.svg"> | <img width="90" height="90" alt="image" src="./Wallet/AlipayPlus/AlipayPlus_V2_Rounded.svg"> |
 
 
-## <img width="24" height="24" alt="image" src="./Wallet/Binfinite/Binfinite_SVG.svg"> Binfinite
+### Binfinite
 
 Source:</br>
 
@@ -69,7 +79,7 @@ Source:</br>
 | V3 | <img width="90" height="90" alt="image" src="./Wallet/Binfinite/Binfinite_V3_Square.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Binfinite/Binfinite_V3_Rounded.svg"> |
 
 
-## <img width="24" height="24" alt="image" src="./Wallet/Boost/BOOST_V1_Square.svg"> Boost
+### Boost
 
 Source:</br>
 
@@ -82,7 +92,7 @@ Source:</br>
 | V3 | <img width="90" height="90" alt="image" src="./Wallet/Boost/BOOST_V3_Square.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Boost/BOOST_V3_Rounded.svg"> |
 
 
-## <img width="24" height="24" alt="image" src="./Wallet/FavePay/FavePay_V1_Square.svg"> FavePay
+### FavePay
 
 Source:</br>
 
@@ -94,7 +104,7 @@ Source:</br>
 | V2 | <img width="90" height="90" alt="image" src="./Wallet/FavePay/FavePay_V2_Square.svg"> | <img width="90" height="90" alt="image" src="./Wallet/FavePay/FavePay_V2_Rounded.svg"> |
 
 
-## <img width="24" height="24" alt="image" src="./Wallet/Gopayz/GOPAYZ_V1_Square.svg"> Gopayz
+### Gopayz
 
 Source:</br>
 
@@ -106,7 +116,7 @@ Source:</br>
 | V2 | <img width="90" height="90" alt="image" src="./Wallet/Gopayz/GOPAYZ_V2_Square.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Gopayz/GOPAYZ_V2_Rounded.svg"> |
 
 
-## <img width="24" height="24" alt="image" src="./Wallet/GrabPay/GrabPay_V1_Square.svg"> GrabPay
+### GrabPay
 
 Source:</br>
 
@@ -120,7 +130,7 @@ Source:</br>
 | V4 | <img width="90" height="90" alt="image" src="./Wallet/GrabPay/GrabPay_V4_Square.svg"> | <img width="90" height="90" alt="image" src="./Wallet/GrabPay/GrabPay_V4_Rounded.svg"> |
 
 
-## <img width="24" height="24" alt="image" src="./Wallet/Lazada/Lazada_V1_Square.svg"> Lazada
+### Lazada
 
 Source:</br>
 
@@ -132,7 +142,7 @@ Source:</br>
 | V2 | <img width="90" height="90" alt="image" src="./Wallet/Lazada/Lazada_V2_Square.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Lazada/Lazada_V2_Rounded.svg"> |
 
 
-## <img width="24" height="24" alt="image" src="./Wallet/MAE/MAE_V1_Square.svg"> MAE
+### MAE
 
 Source:</br>
 
@@ -143,7 +153,7 @@ Source:</br>
 | V1 | <img width="90" height="90" alt="image" src="./Wallet/MAE/MAE_V1_Square.svg"> | <img width="90" height="90" alt="image" src="./Wallet/MAE/MAE_V1_Rounded.svg" > |
 
 
-## <img width="24" height="24" alt="image" src="./Wallet/MCash/MCash_V1_Square.svg"> MCash
+### MCash
 
 Source:</br>
 
@@ -155,7 +165,7 @@ Source:</br>
 | V2 | <img width="90" height="90" alt="image" src="./Wallet/MCash/MCash_V2_Square.svg"> | <img width="90" height="90" alt="image" src="./Wallet/MCash/MCash_V2_Rounded.svg"> |
 
 
-## <img width="24" height="24" alt="image" src="./Wallet/Presto/Presto_V1_Square.svg"> Presto
+### Presto
 
 Source:</br>
 
@@ -170,7 +180,7 @@ Source:</br>
 | V5 | <img width="90" height="90" alt="image" src="./Wallet/Presto/Presto_V5_Square.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Presto/Presto_V5_Rounded.svg" > |
 
 
-## <img width="24" height="24" alt="image" src="./Wallet/Razer/RAZERPAY_V1_Square.svg"> Razer
+### Razer
 
 Source:</br>
 
@@ -181,7 +191,7 @@ Source:</br>
 | V1 | <img width="90" height="90" alt="image" src="./Wallet/Razer/RAZERPAY_V1_Square.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Razer/RAZERPAY_V1_Rounded.svg" > |
 
 
-## <img width="24" height="24" alt="image" src="./Wallet/SarawakPay/SarawakPay_V1_Square.svg"> SarawakPay
+### SarawakPay
 
 Source:</br>
 
@@ -193,7 +203,7 @@ Source:</br>
 | V2 | <img width="90" height="90" alt="image" src="./Wallet/SarawakPay/SarawakPay_V2_Square.svg"> | <img width="90" height="90" alt="image" src="./Wallet/SarawakPay/SarawakPay_V2_Rounded.svg" > |
 
 
-## <img width="24" height="24" alt="image" src="./Wallet/Senheng/Senheng_V1_Square.svg"> Senheng
+### Senheng
 
 Source:</br>
 
@@ -205,7 +215,7 @@ Source:</br>
 | V2 | <img width="90" height="90" alt="image" src="./Wallet/Senheng/Senheng_V2_Square.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Senheng/Senheng_V2_Rounded.svg" > |
 
 
-## <img width="24" height="24" alt="image" src="./Wallet/Setel/Setel_V1_Square.svg"> Setel
+### Setel
 
 Source:</br>
 
@@ -217,7 +227,7 @@ Source:</br>
 | V2 | <img width="90" height="90" alt="image" src="./Wallet/Setel/Setel_V2_Square.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Setel/Setel_V2_Rounded.svg" > |
 
 
-## <img width="24" height="24" alt="image" src="./Wallet/ShopeePay/SHOPEEPAY_V1_Square.svg"> ShopeePay
+### ShopeePay
 
 Source:</br>
 
@@ -230,7 +240,7 @@ Source:</br>
 | V3 | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/SHOPEEPAY_V3_Square.svg"> | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/SHOPEEPAY_V3_Rounded.svg" > |
 
 
-## <img width="24" height="24" alt="image" src="./Wallet/TNG/TNG_V1_Square.svg"> TNG
+### TNG
 
 Source:</br>
 
@@ -241,7 +251,7 @@ Source:</br>
 | V1 | <img width="90" height="90" alt="image" src="./Wallet/TNG/TNG_V1_Square.svg"> | <img width="90" height="90" alt="image" src="./Wallet/TNG/TNG_V1_Rounded.svg" > |
 
 
-## <img width="24" height="24" alt="image" src="./Wallet/Tapay/TAPAY_V1_Square.svg"> Tapay
+### Tapay
 
 Source:</br>
 
@@ -253,7 +263,7 @@ Source:</br>
 | V2 | <img width="90" height="90" alt="image" src="./Wallet/Tapay/TAPAY_V2_Square.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Tapay/TAPAY_V2_Rounded.svg" > |
 
 
-## <img width="24" height="24" alt="image" src="./Wallet/Truemoney/Truemoney_V1_Square.svg"> Truemoney
+### Truemoney
 
 Source:</br>
 
@@ -265,7 +275,7 @@ Source:</br>
 | V2 | <img width="90" height="90" alt="image" src="./Wallet/Truemoney/Truemoney_V2_Square.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Truemoney/Truemoney_V2_Rounded.svg" > |
 
 
-## <img width="24" height="24" alt="image" src="./Wallet/WechatPay/WeChat_V1_Square.svg"> WechatPay
+### WechatPay
 
 Source:</br>
 
@@ -278,7 +288,7 @@ Source:</br>
 | V3 | <img width="90" height="90" alt="image" src="./Wallet/WechatPay/WeChat_V3_Square.svg"> | <img width="90" height="90" alt="image" src="./Wallet/WechatPay/WeChat_V3_Rounded.svg" > |
 
 
-## <img width="24" height="24" alt="image" src="./Wallet/Zapp/Zapp_V1_Square.svg"> Zapp
+### Zapp
 
 Source:</br>
 
@@ -288,17 +298,20 @@ Source:</br>
 | -- | ----------------------------------------------------------------------------- | -----------------------------------------------------------------------------  | 
 | V1 | <img width="90" height="90" alt="image" src="./Wallet/Zapp/Zapp_V1_Square.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Zapp/Zapp_V1_Rounded.svg" > |
 
+</br>
 
-# BNPL
+## BNPL
+- [Ablr](#ablr)
+- [Atome](#atome)
+- [IOUPay](#ioupay)
+- [ShopBack](#shopback)
+- [Split](#split)
 
-- Ablr
-- Atome
-- IOUPay
-- ShopBack
-- Split
+</br>
+</br>
 
 
-## <img width="24" height="24" alt="image" src="./BNPL/Ablr/Ablr_V1_Square.svg"> Ablr
+### Ablr
 
 Source:</br>
 
@@ -310,7 +323,7 @@ Source:</br>
 | V2 | <img width="90" height="90" alt="image" src="./BNPL/Ablr/Ablr_V2_Square.svg"> | <img width="90" height="90" alt="image" src="./BNPL/Ablr/Ablr_V2_Rounded.svg" > |
 
 
-## <img width="24" height="24" alt="image" src="./BNPL/Atome/Atome_V1_Square.svg"> Atome
+### Atome
 
 Source:</br>
 
@@ -322,7 +335,7 @@ Source:</br>
 | V2 | <img width="90" height="90" alt="image" src="./BNPL/Atome/Atome_V2_Square.svg"> | <img width="90" height="90" alt="image" src="./BNPL/Atome/Atome_V2_Rounded.svg" > |
 
 
-## <img width="24" height="24" alt="image" src="./BNPL/IOUPay/IOUPay_V1_Square.svg"> IOUPay
+### IOUPay
 
 Source:</br>
 
@@ -334,7 +347,7 @@ Source:</br>
 | V2 | <img width="90" height="90" alt="image" src="./BNPL/IOUPay/IOUPay_V2_Square.svg"> | <img width="90" height="90" alt="image" src="./BNPL/IOUPay/IOUPay_V2_Rounded.svg" > |
 
 
-## <img width="24" height="24" alt="image" src="./BNPL/ShopBack/ShopBack_V1_Square.svg"> ShopBack
+### ShopBack
 
 Source:</br>
 
@@ -346,7 +359,7 @@ Source:</br>
 | V2 | <img width="90" height="90" alt="image" src="./BNPL/ShopBack/ShopBack_V2_Square.svg"> | <img width="90" height="90" alt="image" src="./BNPL/ShopBack/ShopBack_V2_Rounded.svg" > |
 
 
-## <img width="24" height="24" alt="image" src="./BNPL/Split/Split_V1_Square.svg"> Split
+### Split
 
 Source:</br>
 
@@ -359,16 +372,19 @@ Source:</br>
 | V3 | <img width="90" height="90" alt="image" src="./BNPL/Split/Split_V3_Square.svg"> | <img width="90" height="90" alt="image" src="./BNPL/Split/Split_V3_Rounded.svg" > |
 | V4 | <img width="90" height="90" alt="image" src="./BNPL/Split/Split_V4_Square.svg"> | <img width="90" height="90" alt="image" src="./BNPL/Split/Split_V4_Rounded.svg" > |
 
+</br>
 
-# Card
+## Card
+- [Visa](#visa)
+- [Master](#master)
+- [UnionPay](#unionpay)
+- [Gobiz](#gobiz)
+- [Paydee](#paydee)
 
-- Visa
-- Master
-- UnionPay
-- Gobiz
-- Paydee
+</br>
+</br>
 
-## <img width="24" height="24" alt="image" src="./Card/Visa/VISA_V1_Square.svg"> Visa
+### Visa
 
 Source:</br>
 
@@ -380,8 +396,7 @@ Source:</br>
 | V2 | <img width="90" height="90" alt="image" src="./Card/Visa/VISA_V2_Square.svg"> | <img width="90" height="90" alt="image" src="./Card/Visa/VISA_V2_Rounded.svg" > | <img width="90" height="90" alt="image" src="./Card/Visa/VISA_V2_Transparent.svg" > |
 
 
-
-## <img width="24" height="24" alt="image" src="./Card/Master/MASTER_V1_Square.svg"> Master
+### Master
 
 Source:</br>
 
@@ -393,7 +408,7 @@ Source:</br>
 | V2 | <img width="90" height="90" alt="image" src="./Card/Master/MASTER_V2_Square.svg"> | <img width="90" height="90" alt="image" src="./Card/Master/MASTER_V2_Rounded.svg" > | N/A |
 
 
-## <img width="24" height="24" alt="image" src="./Card/UnionPay/UNIONPAY_V1_Square.svg"> UnionPay
+### UnionPay
 
 Source:</br>
 
@@ -404,7 +419,7 @@ Source:</br>
 | V1 | <img width="90" height="90" alt="image" src="./Card/UnionPay/UNIONPAY_V1_Square.svg"> | <img width="90" height="90" alt="image" src="./Card/UnionPay/UNIONPAY_V1_Rounded.svg" > | <img width="90" height="90" alt="image" src="./Card/UnionPay/UNIONPAY_V1_Transparent.svg" > |
 
 
-## <img width="24" height="24" alt="image" src="./Card/Gobiz/Gobiz_V1_Square.svg"> Gobiz
+### Gobiz
 
 Source:</br>
 
@@ -416,7 +431,7 @@ Source:</br>
 | V2 | <img width="90" height="90" alt="image" src="./Card/Gobiz/Gobiz_V2_Square.svg"> | <img width="90" height="90" alt="image" src="./Card/Gobiz/Gobiz_V2_Rounded.svg" > | 
 
 
-## <img width="24" height="24" alt="image" src="./Card/Paydee/Paydee_V1_Square.svg"> Paydee
+### Paydee
 
 Source:</br>
 
@@ -427,15 +442,17 @@ Source:</br>
 | V1 | <img width="90" height="90" alt="image" src="./Card/Paydee/Paydee_V1_Square.svg"> | <img width="90" height="90" alt="image" src="./Card/Paydee/Paydee_V1_Rounded.svg" > | 
 | V2 | <img width="90" height="90" alt="image" src="./Card/Paydee/Paydee_V2_Square.svg"> | <img width="90" height="90" alt="image" src="./Card/Paydee/Paydee_V2_Rounded.svg" > | 
 
+</br>
 
-# Mobile
+## Mobile
+- [ApplePay](#applepay)
+- [GooglePay](#googlepay)
+- [SamsungPay](#samsungpay)
 
-- ApplePay
-- GooglePay
-- SamsungPay
+</br>
+</br>
 
-
-## <img width="24" height="24" alt="image" src="./Mobile/ApplePay/ApplePay_V1_Sqaure.svg"> ApplePay
+### ApplePay
 
 Source:</br>
 
@@ -447,7 +464,7 @@ Source:</br>
 | V2 | <img width="90" height="90" alt="image" src="./Mobile/ApplePay/ApplePay_V2_Sqaure.svg"> | <img width="90" height="90" alt="image" src="./Mobile/ApplePay/ApplePay_V2_Rounded.svg" > | <img width="90" height="90" alt="image" src="./Mobile/ApplePay/ApplePay_V2_Transparent.svg" > |
 
 
-## <img width="24" height="24" alt="image" src="./Mobile/GooglePay/GooglePay_V1_Square.svg"> GooglePay
+### GooglePay
 
 Source:</br>
 
@@ -460,7 +477,7 @@ Source:</br>
 | V3 | <img width="90" height="90" alt="image" src="./Mobile/GooglePay/GooglePay_V3_Square.svg"> | <img width="90" height="90" alt="image" src="./Mobile/GooglePay/GooglePay_V3_Rounded.svg" > | <img width="90" height="90" alt="image" src="./Mobile/GooglePay/GooglePay_V3_Transparent.svg" > |
 
 
-## <img width="24" height="24" alt="image" src="./Mobile/SamsungPay/SamsungPay_V1_Square.svg"> SamsungPay
+### SamsungPay
 
 Source:</br>
 
@@ -472,16 +489,18 @@ Source:</br>
 | V2 | <img width="90" height="90" alt="image" src="./Mobile/SamsungPay/SamsungPay_V2_Square.svg"> | <img width="90" height="90" alt="image" src="./Mobile/SamsungPay/SamsungPay_V2_Rounded.svg" > | 
 | V3 | <img width="90" height="90" alt="image" src="./Mobile/SamsungPay/SamsungPay_V3_Square.svg"> | <img width="90" height="90" alt="image" src="./Mobile/SamsungPay/SamsungPay_V3_Rounded.svg" > | 
 
+</br>
 
-# Bank
+## Bank
+- [DuitNow](#duitnow)
+- [FPX](#fpx)
+- [MaybankQR](#maybankqr)
+- [Netspay](#netspay)
 
-- DuitNow
-- FPX
-- MaybankQR
-- Netspay
+</br>
+</br>
 
-
-## <img width="24" height="24" alt="image" src="./Bank/DuitNow/DuitNow_V1_Square.svg"> DuitNow
+### DuitNow
 
 Source:</br>
 
@@ -495,7 +514,7 @@ Source:</br>
 | V4 | <img width="90" height="90" alt="image" src="./Bank/DuitNow/DuitNow_V4_Square.svg"> | <img width="90" height="90" alt="image" src="./Bank/DuitNow/DuitNow_V4_Rounded.svg" > | 
 
 
-## <img width="24" height="24" alt="image" src="./Bank/FPX/FPX_V1_Square.svg"> FPX
+### FPX
 
 Source:</br>
 
@@ -508,18 +527,18 @@ Source:</br>
 | V3 | <img width="90" height="90" alt="image" src="./Bank/FPX/FPX_V3_Square.svg"> | <img width="90" height="90" alt="image" src="./Bank/FPX/FPX_V3_Rounded.svg" > | 
 
 
-## <img width="24" height="24" alt="image" src="./Bank/MaybankQR/MaybankQR_V1_Square.svg"> MaybankQR
+### MaybankQR
 
 Source:</br>
 
-<img width="150" height="150" alt="image" src="./Bank/MaybankQR/MaybankQR_SVG.svg">
+<img width="150" height="150" alt="image" src="./Bank/MaybankQR/Maybank_SVG.svg">
 
 | Version | Square | Rounded |
 | -- | ----------------------------------------------------------------------------- | -----------------------------------------------------------------------------  | 
 | V1 | <img width="90" height="90" alt="image" src="./Bank/MaybankQR/MaybankQR_V1_Square.svg"> | <img width="90" height="90" alt="image" src="./Bank/MaybankQR/MaybankQR_V1_Rounded.svg" > |
 
 
-## <img width="24" height="24" alt="image" src="./Bank/NetsPay/NetsPay_V1_Square.svg"> NetsPay
+### NetsPay
 
 Source:</br>
 
