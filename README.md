@@ -9,9 +9,9 @@ Anyone who has access to the repository is welcome to add, modify, or improve th
 ### 📏 Format 📐
 
 - Size: (WxH)
-  - 180 x 180
-  - 800 x 180
-  - 500 x 350
+    - 180 x 180
+    - 800 x 180
+    - 500 x 350
 - Corner Radius: 15
 - Type:
     - SQU (Square)
@@ -88,11 +88,11 @@ Source:
 
 <img width="150" height="150" alt="image" src="./Wallet/Boost/Boost_SVG.svg">
 
-| Version | Square                                                                         | Round                                                                           |
-|---------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------| 
-| V1      | <img width="90" height="90" alt="image" src="./Wallet/Boost/BOOST_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Boost/BOOST_V1_ROU.svg" > |
-| V2      | <img width="90" height="90" alt="image" src="./Wallet/Boost/BOOST_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Boost/BOOST_V2_ROU.svg">  |
-| V3      | <img width="90" height="90" alt="image" src="./Wallet/Boost/BOOST_V3_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Boost/BOOST_V3_ROU.svg">  |
+| Version | Square                                                                         | Round                                                                          |
+|---------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------| 
+| V1      | <img width="90" height="90" alt="image" src="./Wallet/Boost/Boost_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Boost/Boost_V1_ROU.svg"> |
+| V2      | <img width="90" height="90" alt="image" src="./Wallet/Boost/Boost_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Boost/Boost_V2_ROU.svg"> |
+| V3      | <img width="90" height="90" alt="image" src="./Wallet/Boost/Boost_V3_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Boost/Boost_V3_ROU.svg"> |
 
 ### FavePay
 
@@ -109,12 +109,12 @@ Source:
 
 Source:
 
-<img width="150" height="150" alt="image" src="./Wallet/Gopayz/GoPayz_SVG.svg">
+<img width="150" height="150" alt="image" src="Wallet/GoPayz/GoPayz_SVG.svg">
 
 | Version | Square                                                                           | Round                                                                             |
 |---------|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------| 
-| V1      | <img width="90" height="90" alt="image" src="./Wallet/Gopayz/GOPAYZ_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Gopayz/GOPAYZ_V1_ROU.svg" > |
-| V2      | <img width="90" height="90" alt="image" src="./Wallet/Gopayz/GOPAYZ_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Gopayz/GOPAYZ_V2_ROU.svg">  |
+| V1      | <img width="90" height="90" alt="image" src="./Wallet/GoPayz/GoPayz_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/GoPayz/GoPayz_V1_ROU.svg" > |
+| V2      | <img width="90" height="90" alt="image" src="./Wallet/GoPayz/GoPayz_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/GoPayz/GoPayz_V2_ROU.svg">  |
 
 ### GrabPay
 
@@ -183,7 +183,7 @@ Source:
 
 | Version | Square                                                                            | Round                                                                              |
 |---------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------| 
-| V1      | <img width="90" height="90" alt="image" src="./Wallet/Razer/RAZERPAY_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Razer/RAZERPAY_V1_ROU.svg" > |
+| V1      | <img width="90" height="90" alt="image" src="./Wallet/Razer/RazerPay_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Razer/RazerPay_V1_ROU.svg" > |
 
 ### SarawakPay
 
@@ -226,9 +226,9 @@ Source:
 
 | Version | Square                                                                                 | Round                                                                                   |
 |---------|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------| 
-| V1      | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/SHOPEEPAY_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/SHOPEEPAY_V1_ROU.svg" > |
-| V2      | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/SHOPEEPAY_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/SHOPEEPAY_V2_ROU.svg" > |
-| V3      | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/SHOPEEPAY_V3_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/SHOPEEPAY_V3_ROU.svg" > |
+| V1      | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/ShopeePay_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/ShopeePay_V1_ROU.svg" > |
+| V2      | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/ShopeePay_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/ShopeePay_V2_ROU.svg" > |
+| V3      | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/ShopeePay_V3_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/ShopeePay_V3_ROU.svg" > |
 
 ### TNG
 
@@ -240,16 +240,16 @@ Source:
 |---------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------| 
 | V1      | <img width="90" height="90" alt="image" src="./Wallet/TNG/TNG_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/TNG/TNG_V1_ROU.svg" > |
 
-### Tapay
+### TaPay
 
 Source:
 
-<img width="150" height="150" alt="image" src="./Wallet/Tapay/TaPay_SVG.svg">
+<img width="150" height="150" alt="image" src="Wallet/TaPay/TaPay_SVG.svg">
 
 | Version | Square                                                                         | Round                                                                           |
 |---------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------| 
-| V1      | <img width="90" height="90" alt="image" src="./Wallet/Tapay/TAPAY_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Tapay/TAPAY_V1_ROU.svg" > |
-| V2      | <img width="90" height="90" alt="image" src="./Wallet/Tapay/TAPAY_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Tapay/TAPAY_V2_ROU.svg" > |
+| V1      | <img width="90" height="90" alt="image" src="./Wallet/Tapay/TaPay_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Tapay/TaPay_V1_ROU.svg" > |
+| V2      | <img width="90" height="90" alt="image" src="./Wallet/Tapay/TaPay_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Tapay/TaPay_V2_ROU.svg" > |
 
 ### Truemoney
 
