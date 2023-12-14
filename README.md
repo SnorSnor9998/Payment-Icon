@@ -30,19 +30,21 @@ Anyone who has access to the repository is welcome to add, modify, or improve th
 | [Boost](#boost)           | [ShopBack](#shopback) | [Gobiz](#gobiz)       |                            | [Argo Bank](#argo-bank)                       | [Netspay](#netspay)     |
 | [FavePay](#favepay)       | [Split](#split)       | [Paydee](#paydee)     |                            | [Bank Islam](#bank-islam)                     |                         |
 | [GoPayz](#gopayz)         |                       |                       |                            | [Bank Muamalat](#bank-muamalat)               |                         |
-| [Lazada](#lazada)         |                       |                       |                            | [Bank Rakyat](#bank-rakyat)                   |                         |
-| [MAE](#mae)               |                       |                       |                            | [BSN](#bsn)                                   |                         |
-| [MCash](#mcash)           |                       |                       |                            | [CIMB](#cimb)                                 |                         |
-| [Presto](#presto)         |                       |                       |                            | [Citibank](#citibank)                         |                         |
-| [Razer](#razer)           |                       |                       |                            | [HongLeong Bank](#hongleong-bank)             |                         |
-| [SarawakPay](#sarawakpay) |                       |                       |                            | [HSBC](#hsbc)                                 |                         |
-| [TNG](#tng)               |                       |                       |                            | [Kuwait Finance House](#kuwait-finance-house) |                         |
-| [TaPay](#tapay)           |                       |                       |                            | [Maybank](#maybank)                           |                         |
-| [Truemoney](#truemoney)   |                       |                       |                            | [OCBC](#ocbc)                                 |                         |
-| [WechatPay](#wechatpay)   |                       |                       |                            | [Public Bank](#public-bank)                   |                         |
-| [Zapp](#zapp)             |                       |                       |                            | [RHB](#rhb)                                   |                         |
-|                           |                       |                       |                            | [Standard Chartered](#standard-chartered)     |                         |
-|                           |                       |                       |                            | [UOB](#uob)                                   |                         |
+| [Grab Pay](#grabpay)      |                       |                       |                            | [Bank Rakyat](#bank-rakyat)                   |                         |
+| [Lazada](#lazada)         |                       |                       |                            | [BSN](#bsn)                                   |                         |
+| [MAE](#mae)               |                       |                       |                            | [CIMB](#cimb)                                 |                         |
+| [MCash](#mcash)           |                       |                       |                            | [Citibank](#citibank)                         |                         |
+| [Presto](#presto)         |                       |                       |                            | [HongLeong Bank](#hongleong-bank)             |                         |
+| [Razer](#razer)           |                       |                       |                            | [HSBC](#hsbc)                                 |                         |
+| [SarawakPay](#sarawakpay) |                       |                       |                            | [Kuwait Finance House](#kuwait-finance-house) |                         |
+| [Sneheng](#senheng)       |                       |                       |                            | [Maybank](#maybank)                           |                         |
+| [Setel](#setel)           |                       |                       |                            | [OCBC](#ocbc)                                 |                         |
+| [Shopee Pay](#shopeepay)  |                       |                       |                            | [Public Bank](#public-bank)                   |                         |
+| [TaPay](#tapay)           |                       |                       |                            | [RHB](#rhb)                                   |                         |
+| [TNG](#tng)               |                       |                       |                            | [Standard Chartered](#standard-chartered)     |                         |
+| [Truemoney](#truemoney)   |                       |                       |                            | [UOB](#uob)                                   |                         |
+| [WechatPay](#wechatpay)   |                       |                       |                            |                                               |                         |
+| [Zapp](#zapp)             |                       |                       |                            |                                               |                         |
 
 <br>
 
@@ -179,7 +181,7 @@ Source:
 
 Source:
 
-<img width="150" height="150" alt="image" src="./Wallet/Razer/RazerPay_SVG.svg">
+<img width="150" height="150" alt="image" src="Wallet/Razer/RazerPay_SVG.svg">
 
 | Version | Square                                                                            | Round                                                                              |
 |---------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------| 
