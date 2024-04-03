@@ -37,7 +37,7 @@ Anyone who has access to the repository is welcome to add, modify, or improve th
 | [Presto](#presto)         |                       |                       |                            | [HongLeong Bank](#hongleong-bank)             |                         |
 | [Razer](#razer)           |                       |                       |                            | [HSBC](#hsbc)                                 |                         |
 | [SarawakPay](#sarawakpay) |                       |                       |                            | [Kuwait Finance House](#kuwait-finance-house) |                         |
-| [Sneheng](#senheng)       |                       |                       |                            | [Maybank](#maybank)                           |                         |
+| [Senheng](#senheng)       |                       |                       |                            | [Maybank](#maybank)                           |                         |
 | [Setel](#setel)           |                       |                       |                            | [OCBC](#ocbc)                                 |                         |
 | [Shopee Pay](#shopeepay)  |                       |                       |                            | [Public Bank](#public-bank)                   |                         |
 | [TaPay](#tapay)           |                       |                       |                            | [RHB](#rhb)                                   |                         |
