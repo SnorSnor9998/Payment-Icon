@@ -34,17 +34,17 @@ Anyone who has access to the repository is welcome to add, modify, or improve th
 | [Lazada](#lazada)         |                       |                       |                            | [BSN](#bsn)                                   |                         |
 | [MAE](#mae)               |                       |                       |                            | [CIMB](#cimb)                                 |                         |
 | [MCash](#mcash)           |                       |                       |                            | [Citibank](#citibank)                         |                         |
-| [Presto](#presto)         |                       |                       |                            | [HongLeong Bank](#hongleong-bank)             |                         |
-| [Razer](#razer)           |                       |                       |                            | [HSBC](#hsbc)                                 |                         |
-| [SarawakPay](#sarawakpay) |                       |                       |                            | [Kuwait Finance House](#kuwait-finance-house) |                         |
-| [Sneheng](#senheng)       |                       |                       |                            | [Maybank](#maybank)                           |                         |
-| [Setel](#setel)           |                       |                       |                            | [OCBC](#ocbc)                                 |                         |
-| [Shopee Pay](#shopeepay)  |                       |                       |                            | [Public Bank](#public-bank)                   |                         |
-| [TaPay](#tapay)           |                       |                       |                            | [RHB](#rhb)                                   |                         |
-| [TNG](#tng)               |                       |                       |                            | [Standard Chartered](#standard-chartered)     |                         |
-| [Truemoney](#truemoney)   |                       |                       |                            | [UOB](#uob)                                   |                         |
-| [WechatPay](#wechatpay)   |                       |                       |                            |                                               |                         |
-| [Zapp](#zapp)             |                       |                       |                            |                                               |                         |
+| [Presto](#presto)         |                       |                       |                            | [GXBank](#gxbank)                             |                         |
+| [Razer](#razer)           |                       |                       |                            | [HongLeong Bank](#hongleong-bank)             |                         |
+| [SarawakPay](#sarawakpay) |                       |                       |                            | [HSBC](#hsbc)                                 |                         |
+| [Sneheng](#senheng)       |                       |                       |                            | [Kuwait Finance House](#kuwait-finance-house) |                         |
+| [Setel](#setel)           |                       |                       |                            | [Maybank](#maybank)                           |                         |
+| [Shopee Pay](#shopeepay)  |                       |                       |                            | [OCBC](#ocbc)                                 |                         |
+| [TaPay](#tapay)           |                       |                       |                            | [Public Bank](#public-bank)                   |                         |
+| [TNG](#tng)               |                       |                       |                            | [RHB](#rhb)                                   |                         |
+| [Truemoney](#truemoney)   |                       |                       |                            | [Standard Chartered](#standard-chartered)     |                         |
+|  [WechatPay](#wechatpay)  |                       |                       |                            | [UOB](#uob)                                   |                         |
+|  [Zapp](#zapp)            |                       |                       |                            |                                               |                         |
 
 <br>
 
@@ -579,6 +579,22 @@ Source:
 |---------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------| 
 | V1      | <img width="90" height="90" alt="image" src="./Banks/CitiBank/CitiBank_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Banks/CitiBank/CitiBank_V1_ROU.svg"> | <img width="200" height="120" alt="image" src="./Banks/CitiBank/CitiBank_V1_LG.svg"> | <img width="200" height="120" alt="image" src="./Banks/CitiBank/CitiBank_V1_BSQU.svg"> |
 | V2      | <img width="90" height="90" alt="image" src="./Banks/CitiBank/CitiBank_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./Banks/CitiBank/CitiBank_V2_ROU.svg"> | <img width="200" height="120" alt="image" src="./Banks/CitiBank/CitiBank_V2_LG.svg"> | <img width="200" height="120" alt="image" src="./Banks/CitiBank/CitiBank_V2_BSQU.svg"> |
+
+<br>
+
+### GXBank
+
+Source:
+
+<img width="250" height="100" alt="image" src="Banks/GXBank/GXBank_SVG.svg">
+
+| Version | Square                                                                              | Round                                                                               | Long                                                                                 | Big Square                                                                             |
+|---------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------| 
+| V1      | <img width="90" height="90" alt="image" src="./Banks/GXBank/GXBank_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Banks/GXBank/GXBank_V1_ROU.svg"> | <img width="200" height="120" alt="image" src="./Banks/GXBank/GXBank_V1_LG.svg"> | <img width="200" height="120" alt="image" src="./Banks/GXBank/GXBank_V1_BSQU.svg"> |
+| V2      | <img width="90" height="90" alt="image" src="./Banks/GXBank/GXBank_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./Banks/GXBank/GXBank_V2_ROU.svg"> | <img width="200" height="120" alt="image" src="./Banks/GXBank/GXBank_V2_LG.svg"> | <img width="200" height="120" alt="image" src="./Banks/GXBank/GXBank_V2_BSQU.svg"> |
+| V3      | <img width="90" height="90" alt="image" src="./Banks/GXBank/GXBank_V3_SQU.svg"> | <img width="90" height="90" alt="image" src="./Banks/GXBank/GXBank_V3_ROU.svg"> | <img width="200" height="120" alt="image" src="./Banks/GXBank/GXBank_V3_LG.svg"> | <img width="200" height="120" alt="image" src="./Banks/GXBank/GXBank_V3_BSQU.svg"> |
+| V4      | <img width="90" height="90" alt="image" src="./Banks/GXBank/GXBank_V4_SQU.svg"> | <img width="90" height="90" alt="image" src="./Banks/GXBank/GXBank_V4_ROU.svg"> | <img width="200" height="120" alt="image" src="./Banks/GXBank/GXBank_V4_LG.svg"> | <img width="200" height="120" alt="image" src="./Banks/GXBank/GXBank_V4_BSQU.svg"> |
+| V5      | <img width="90" height="90" alt="image" src="./Banks/GXBank/GXBank_V5_SQU.svg"> | <img width="90" height="90" alt="image" src="./Banks/GXBank/GXBank_V5_ROU.svg"> | <img width="200" height="120" alt="image" src="./Banks/GXBank/GXBank_V5_LG.svg"> | <img width="200" height="120" alt="image" src="./Banks/GXBank/GXBank_V5_BSQU.svg"> |
 
 <br>
 
