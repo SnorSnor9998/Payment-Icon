@@ -37,14 +37,14 @@ Anyone who has access to the repository is welcome to add, modify, or improve th
 | [Presto](#presto)         |                       |                       |                            | [GXBank](#gxbank)                             |                         |
 | [Razer](#razer)           |                       |                       |                            | [HongLeong Bank](#hongleong-bank)             |                         |
 | [SarawakPay](#sarawakpay) |                       |                       |                            | [HSBC](#hsbc)                                 |                         |
-| [Sneheng](#senheng)       |                       |                       |                            | [Kuwait Finance House](#kuwait-finance-house) |                         |
+| [Senheng](#senheng)       |                       |                       |                            | [Kuwait Finance House](#kuwait-finance-house) |                         |
 | [Setel](#setel)           |                       |                       |                            | [Maybank](#maybank)                           |                         |
 | [Shopee Pay](#shopeepay)  |                       |                       |                            | [OCBC](#ocbc)                                 |                         |
 | [TaPay](#tapay)           |                       |                       |                            | [Public Bank](#public-bank)                   |                         |
 | [TNG](#tng)               |                       |                       |                            | [RHB](#rhb)                                   |                         |
 | [Truemoney](#truemoney)   |                       |                       |                            | [Standard Chartered](#standard-chartered)     |                         |
-|  [WechatPay](#wechatpay)  |                       |                       |                            | [UOB](#uob)                                   |                         |
-|  [Zapp](#zapp)            |                       |                       |                            |                                               |                         |
+| [WechatPay](#wechatpay)   |                       |                       |                            | [UOB](#uob)                                   |                         |
+| [Zapp](#zapp)             |                       |                       |                            |                                               |                         |
 
 <br>
 
