@@ -24,27 +24,27 @@ Anyone who has access to the repository is welcome to add, modify, or improve th
 
 | [E-Wallet](#e-wallet)     | [BNPL](#bnpl)         | [Card](#card)         | [Mobile](#mobile)          | [Banks](#banks)                               | [Other](#other)         |
 |---------------------------|-----------------------|-----------------------|----------------------------|-----------------------------------------------|-------------------------|
-| [Alipay](#alipay)         | [Ablr](#ablr)         | [Visa](#visa)         | [Apple Pay](#applepay)     | [Affin Bank](#affin-bank)                     | [DuitNow](#duitnow)     |
-| [Alipay+](#alipay-plus)   | [Atome](#atome)       | [Master](#master)     | [Google Pay](#googlepay)   | [Alliance Bank](#alliance-bank)               | [FPX](#fpx)             |
-| [Binfinite](#binfinite)   | [IOUPay](#ioupay)     | [UnionPay](#unionpay) | [Samsung Pay](#samsungpay) | [Ambank](#ambank)                             | [MaybankQR](#maybankqr) |
-| [Boost](#boost)           | [ShopBack](#shopback) | [Gobiz](#gobiz)       |                            | [Argo Bank](#argo-bank)                       | [Netspay](#netspay)     |
-| [FavePay](#favepay)       | [Split](#split)       | [Paydee](#paydee)     |                            | [Bank Islam](#bank-islam)                     |                         |
-| [GoPayz](#gopayz)         |                       |                       |                            | [Bank Muamalat](#bank-muamalat)               |                         |
-| [Grab Pay](#grabpay)      |                       |                       |                            | [Bank Rakyat](#bank-rakyat)                   |                         |
-| [Lazada](#lazada)         |                       |                       |                            | [BSN](#bsn)                                   |                         |
-| [MAE](#mae)               |                       |                       |                            | [CIMB](#cimb)                                 |                         |
-| [MCash](#mcash)           |                       |                       |                            | [Citibank](#citibank)                         |                         |
-| [Presto](#presto)         |                       |                       |                            | [GXBank](#gxbank)                             |                         |
-| [Razer](#razer)           |                       |                       |                            | [HongLeong Bank](#hongleong-bank)             |                         |
-| [SarawakPay](#sarawakpay) |                       |                       |                            | [HSBC](#hsbc)                                 |                         |
-| [Senheng](#senheng)       |                       |                       |                            | [Kuwait Finance House](#kuwait-finance-house) |                         |
-| [Setel](#setel)           |                       |                       |                            | [Maybank](#maybank)                           |                         |
-| [Shopee Pay](#shopeepay)  |                       |                       |                            | [OCBC](#ocbc)                                 |                         |
-| [TaPay](#tapay)           |                       |                       |                            | [Public Bank](#public-bank)                   |                         |
-| [TNG](#tng)               |                       |                       |                            | [RHB](#rhb)                                   |                         |
-| [Truemoney](#truemoney)   |                       |                       |                            | [Standard Chartered](#standard-chartered)     |                         |
-| [WechatPay](#wechatpay)   |                       |                       |                            | [UOB](#uob)                                   |                         |
-| [Zapp](#zapp)             |                       |                       |                            |                                               |                         |
+| [Alipay](#alipay)         | [Ablr](#ablr)         | [Visa](#visa)         | [Apple Pay](#applepay)     | [AEON Bank](#aeon-bank)                        | [DuitNow](#duitnow)     |
+| [Alipay+](#alipay-plus)   | [Atome](#atome)       | [Master](#master)     | [Google Pay](#googlepay)   | [Affin Bank](#affin-bank)                     | [FPX](#fpx)             |
+| [Binfinite](#binfinite)   | [IOUPay](#ioupay)     | [UnionPay](#unionpay) | [Samsung Pay](#samsungpay) | [Alliance Bank](#alliance-bank)               | [MaybankQR](#maybankqr) |
+| [Boost](#boost)           | [ShopBack](#shopback) | [Gobiz](#gobiz)       |                            | [Ambank](#ambank)                             | [Netspay](#netspay)     |
+| [FavePay](#favepay)       | [Split](#split)       | [Paydee](#paydee)     |                            | [Argo Bank](#argo-bank)                       |                         |
+| [GoPayz](#gopayz)         |                       |                       |                            | [Bank Islam](#bank-islam)                     |                         |
+| [Grab Pay](#grabpay)      |                       |                       |                            | [Bank Muamalat](#bank-muamalat)               |                         |
+| [Lazada](#lazada)         |                       |                       |                            | [Bank Rakyat](#bank-rakyat)                   |                         |
+| [MAE](#mae)               |                       |                       |                            | [BSN](#bsn)                                   |                         |
+| [MCash](#mcash)           |                       |                       |                            | [CIMB](#cimb)                                 |                         |
+| [Presto](#presto)         |                       |                       |                            | [Citibank](#citibank)                         |                         |
+| [Razer](#razer)           |                       |                       |                            | [GXBank](#gxbank)                             |                         |
+| [SarawakPay](#sarawakpay) |                       |                       |                            | [HongLeong Bank](#hongleong-bank)             |                         |
+| [Senheng](#senheng)       |                       |                       |                            | [HSBC](#hsbc)                                 |                         |
+| [Setel](#setel)           |                       |                       |                            | [Kuwait Finance House](#kuwait-finance-house) |                         |
+| [Shopee Pay](#shopeepay)  |                       |                       |                            | [Maybank](#maybank)                           |                         |
+| [TaPay](#tapay)           |                       |                       |                            | [OCBC](#ocbc)                                 |                         |
+| [TNG](#tng)               |                       |                       |                            | [Public Bank](#public-bank)                   |                         |
+| [Truemoney](#truemoney)   |                       |                       |                            | [RHB](#rhb)                                   |                         |
+| [WechatPay](#wechatpay)   |                       |                       |                            | [Standard Chartered](#standard-chartered)     |                         |
+| [Zapp](#zapp)             |                       |                       |                            | [UOB](#uob)                                   |                         |
 
 <br>
 
@@ -447,6 +447,19 @@ Source:
 <br>
 
 # Banks
+
+### AEON Bank
+
+Source:
+
+<img width="250" height="100" alt="image" src="Banks/AEONBank/AEONBank_SVG.svg">
+
+| Version | Square                                                                                | Round                                                                                  | Long                                                                                   | Big Square                                                                               |
+|---------|---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------| 
+| V1      | <img width="90" height="90" alt="image" src="./Banks/AEONBank/AEONBank_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Banks/AEONBank/AEONBank_V1_ROU.svg" > | <img width="200" height="120" alt="image" src="./Banks/AEONBank/AEONBank_V1_LG.svg"> | <img width="200" height="120" alt="image" src="./Banks/AEONBank/AEONBank_V1_BSQU.svg"> |
+| V2      | <img width="90" height="90" alt="image" src="./Banks/AEONBank/AEONBank_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./Banks/AEONBank/AEONBank_V2_ROU.svg" > | <img width="200" height="120" alt="image" src="./Banks/AEONBank/AEONBank_V2_LG.svg"> | <img width="200" height="120" alt="image" src="./Banks/AEONBank/AEONBank_V2_BSQU.svg"> |
+
+<br>
 
 ### Affin Bank
 
