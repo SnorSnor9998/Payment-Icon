@@ -231,6 +231,7 @@ Source:
 | V1      | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/ShopeePay_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/ShopeePay_V1_ROU.svg" > |
 | V2      | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/ShopeePay_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/ShopeePay_V2_ROU.svg" > |
 | V3      | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/ShopeePay_V3_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/ShopeePay_V3_ROU.svg" > |
+| V4      | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/ShopeePay_V4_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/ShopeePay_V4_ROU.svg" > |
 
 ### TNG
 
