@@ -254,8 +254,8 @@ Source:
 
 | Version | Square                                                                         | Round                                                                           |
 |---------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------| 
-| V1      | <img width="90" height="90" alt="image" src="./Wallet/Tapay/TaPay_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Tapay/TaPay_V1_ROU.svg" > |
-| V2      | <img width="90" height="90" alt="image" src="./Wallet/Tapay/TaPay_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Tapay/TaPay_V2_ROU.svg" > |
+| V1      | <img width="90" height="90" alt="image" src="./Wallet/TaPay/TaPay_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/TaPay/TaPay_V1_ROU.svg" > |
+| V2      | <img width="90" height="90" alt="image" src="./Wallet/TaPay/TaPay_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/TaPay/TaPay_V2_ROU.svg" > |
 
 ### Truemoney
 
