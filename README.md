@@ -43,11 +43,14 @@ Anyone who has access to the repository is welcome to add, modify, or improve th
 | [TaPay](#tapay)           |                       |                       |                            | [HSBC](#hsbc)                                 |                         |
 | [TNG](#tng)               |                       |                       |                            | [Kuwait Finance House](#kuwait-finance-house) |                         |
 | [Truemoney](#truemoney)   |                       |                       |                            | [Maybank](#maybank)                           |                         |
-| [WechatPay](#wechatpay)   |                       |                       |                            | [OCBC](#ocbc)                                 |                         |
-| [Zapp](#zapp)             |                       |                       |                            | [Public Bank](#public-bank)                   |                         |
+| [WechatPay](#wechatpay)   |                       |                       |                            | [MBSB](#mbsb)                                 |                         |
+| [Zapp](#zapp)             |                       |                       |                            | [OCBC](#ocbc)                                 |                         |
+|                           |                       |                       |                            | [Public Bank](#public-bank)                   |                         |
 |                           |                       |                       |                            | [RHB](#rhb)                                   |                         |
+|                           |                       |                       |                            | [Ryt Bank](#ryt-bank)                         |                         |
 |                           |                       |                       |                            | [Standard Chartered](#standard-chartered)     |                         |
 |                           |                       |                       |                            | [UOB](#uob)                                   |                         |
+
 
 <br>
 
@@ -707,6 +710,18 @@ Source:
 
 <br>
 
+### MBSB
+
+Source:
+
+<img width="250" height="100" alt="image" src="./Banks/MBSB/MBSB_SVG.svg">
+
+| Version | Square                                                                            | Round                                                                             | Long                                                                               | Big Square                                                                           |
+|---------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------| 
+| V1      | <img width="90" height="90" alt="image" src="./Banks/MBSB/MBSB_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Banks/MBSB/MBSB_V1_ROU.svg"> | <img width="200" height="120" alt="image" src="./Banks/MBSB/MBSB_V1_LG.svg"> | <img width="200" height="120" alt="image" src="./Banks/MBSB/MBSB_V1_BSQU.svg"> |
+
+<br>
+
 ### OCBC
 
 Source:
@@ -742,6 +757,19 @@ Source:
 |---------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------| 
 | V1      | <img width="90" height="90" alt="image" src="./Banks/RHB/RHB_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Banks/RHB/RHB_V1_ROU.svg"> | <img width="200" height="120" alt="image" src="./Banks/RHB/RHB_V1_LG.svg"> | <img width="200" height="120" alt="image" src="./Banks/RHB/RHB_V1_BSQU.svg"> |
 | V2      | <img width="90" height="90" alt="image" src="./Banks/RHB/RHB_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./Banks/RHB/RHB_V2_ROU.svg"> | <img width="200" height="120" alt="image" src="./Banks/RHB/RHB_V2_LG.svg"> | <img width="200" height="120" alt="image" src="./Banks/RHB/RHB_V2_BSQU.svg"> |
+
+<br>
+
+### Ryt Bank
+
+Source:
+
+<img width="250" height="100" alt="image" src="./Banks/RytBank/RytBank_SVG.svg">
+
+| Version | Square                                                                    | Round                                                                     | Long                                                                       | Big Square                                                                   |
+|---------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------| 
+| V1      | <img width="90" height="90" alt="image" src="./Banks/RytBank/RytBank_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Banks/RytBank/RytBank_V1_ROU.svg"> | <img width="200" height="120" alt="image" src="./Banks/RytBank/RytBank_V1_LG.svg"> | <img width="200" height="120" alt="image" src="./Banks/RytBank/RytBank_V1_BSQU.svg"> |
+| V2      | <img width="90" height="90" alt="image" src="./Banks/RytBank/RytBank_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./Banks/RytBank/RytBank_V2_ROU.svg"> | <img width="200" height="120" alt="image" src="./Banks/RytBank/RytBank_V2_LG.svg"> | <img width="200" height="120" alt="image" src="./Banks/RytBank/RytBank_V2_BSQU.svg"> |
 
 <br>
 
