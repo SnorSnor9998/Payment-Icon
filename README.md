@@ -22,34 +22,34 @@ Anyone who has access to the repository is welcome to add, modify, or improve th
 
 ### Directory
 
-| [E-Wallet](#e-wallet)     | [BNPL](#bnpl)         | [Card](#card)         | [Mobile](#mobile)          | [Banks](#banks)                               | [Other](#other)         |
-|---------------------------|-----------------------|-----------------------|----------------------------|-----------------------------------------------|-------------------------|
-| [Alipay](#alipay)         | [Ablr](#ablr)         | [Visa](#visa)         | [Apple Pay](#applepay)     | [AEON Bank](#aeon-bank)                       | [DuitNow](#duitnow)     |
-| [Alipay+](#alipay-plus)   | [Atome](#atome)       | [Master](#master)     | [Google Pay](#googlepay)   | [Affin Bank](#affin-bank)                     | [FPX](#fpx)             |
-| [Binfinite](#binfinite)   | [IOUPay](#ioupay)     | [UnionPay](#unionpay) | [Samsung Pay](#samsungpay) | [Alliance Bank](#alliance-bank)               | [MaybankQR](#maybankqr) |
-| [Boost](#boost)           | [ShopBack](#shopback) | [Gobiz](#gobiz)       |                            | [Ambank](#ambank)                             | [Netspay](#netspay)     |
-| [FavePay](#favepay)       | [Split](#split)       | [Paydee](#paydee)     |                            | [Argo Bank](#argo-bank)                       |                         |
-| [GoPayz](#gopayz)         |                       |                       |                            | [Bank Islam](#bank-islam)                     |                         |
-| [Grab Pay](#grabpay)      |                       |                       |                            | [Bank Muamalat](#bank-muamalat)               |                         |
-| [Lazada](#lazada)         |                       |                       |                            | [Bank Rakyat](#bank-rakyat)                   |                         |
-| [MAE](#mae)               |                       |                       |                            | [BNP Paribas](#bnp-paribas)                   |                         |
-| [MCash](#mcash)           |                       |                       |                            | [Boost Bank](#boost-bank)                     |                         |
-| [Presto](#presto)         |                       |                       |                            | [BSN](#bsn)                                   |                         |
-| [Razer](#razer)           |                       |                       |                            | [CIMB](#cimb)                                 |                         |
-| [SarawakPay](#sarawakpay) |                       |                       |                            | [Citibank](#citibank)                         |                         |
-| [Senheng](#senheng)       |                       |                       |                            | [Deutsche Bank](#deutsche-bank)               |                         |
-| [Setel](#setel)           |                       |                       |                            | [GXBank](#gxbank)                             |                         |
-| [Shopee Pay](#shopeepay)  |                       |                       |                            | [HongLeong Bank](#hongleong-bank)             |                         |
-| [TaPay](#tapay)           |                       |                       |                            | [HSBC](#hsbc)                                 |                         |
-| [TNG](#tng)               |                       |                       |                            | [Kuwait Finance House](#kuwait-finance-house) |                         |
-| [Truemoney](#truemoney)   |                       |                       |                            | [Maybank](#maybank)                           |                         |
-| [WechatPay](#wechatpay)   |                       |                       |                            | [MBSB](#mbsb)                                 |                         |
-| [Zapp](#zapp)             |                       |                       |                            | [OCBC](#ocbc)                                 |                         |
-|                           |                       |                       |                            | [Public Bank](#public-bank)                   |                         |
-|                           |                       |                       |                            | [RHB](#rhb)                                   |                         |
-|                           |                       |                       |                            | [Ryt Bank](#ryt-bank)                         |                         |
-|                           |                       |                       |                            | [Standard Chartered](#standard-chartered)     |                         |
-|                           |                       |                       |                            | [UOB](#uob)                                   |                         |
+| [E-Wallet](#e-wallet)     | [BNPL](#bnpl)                 | [Card](#card)         | [Mobile](#mobile)          | [Banks](#banks)                               | [Other](#other)         |
+|---------------------------|-------------------------      |-----------------------|----------------------------|-----------------------------------------------|-------------------------|
+| [Alipay](#alipay)         | [Ablr](#ablr)                 | [Visa](#visa)         | [Apple Pay](#applepay)     | [AEON Bank](#aeon-bank)                       | [DuitNow](#duitnow)     |
+| [Alipay+](#alipay-plus)   | [Atome](#atome)               | [Master](#master)     | [Google Pay](#googlepay)   | [Affin Bank](#affin-bank)                     | [FPX](#fpx)             |
+| [Binfinite](#binfinite)   | [GrabPayLater](#grabpaylater) | [UnionPay](#unionpay) | [Samsung Pay](#samsungpay) | [Alliance Bank](#alliance-bank)               | [MaybankQR](#maybankqr) |
+| [Boost](#boost)           | [IOUPay](#ioupay)             | [Gobiz](#gobiz)       |                            | [Ambank](#ambank)                             | [Netspay](#netspay)     |
+| [FavePay](#favepay)       | [ShopBack](#shopback)         | [Paydee](#paydee)     |                            | [Argo Bank](#argo-bank)                       |                         |
+| [GoPayz](#gopayz)         | [SPayLater](#spaylater)       |                       |                            | [Bank Islam](#bank-islam)                     |                         |
+| [Grab Pay](#grabpay)      | [Split](#split)               |                       |                            | [Bank Muamalat](#bank-muamalat)               |                         |
+| [Lazada](#lazada)         |                               |                       |                            | [Bank Rakyat](#bank-rakyat)                   |                         |
+| [MAE](#mae)               |                               |                       |                            | [BNP Paribas](#bnp-paribas)                   |                         |
+| [MCash](#mcash)           |                               |                       |                            | [Boost Bank](#boost-bank)                     |                         |
+| [Presto](#presto)         |                               |                       |                            | [BSN](#bsn)                                   |                         |
+| [Razer](#razer)           |                               |                       |                            | [CIMB](#cimb)                                 |                         |
+| [SarawakPay](#sarawakpay) |                               |                       |                            | [Citibank](#citibank)                         |                         |
+| [Senheng](#senheng)       |                               |                       |                            | [Deutsche Bank](#deutsche-bank)               |                         |
+| [Setel](#setel)           |                               |                       |                            | [GXBank](#gxbank)                             |                         |
+| [Shopee Pay](#shopeepay)  |                               |                       |                            | [HongLeong Bank](#hongleong-bank)             |                         |
+| [TaPay](#tapay)           |                               |                       |                            | [HSBC](#hsbc)                                 |                         |
+| [TNG](#tng)               |                               |                       |                            | [Kuwait Finance House](#kuwait-finance-house) |                         |
+| [Truemoney](#truemoney)   |                               |                       |                            | [Maybank](#maybank)                           |                         |
+| [WechatPay](#wechatpay)   |                               |                       |                            | [MBSB](#mbsb)                                 |                         |
+| [Zapp](#zapp)             |                               |                       |                            | [OCBC](#ocbc)                                 |                         |
+|                           |                               |                       |                            | [Public Bank](#public-bank)                   |                         |
+|                           |                               |                       |                            | [RHB](#rhb)                                   |                         |
+|                           |                               |                       |                            | [Ryt Bank](#ryt-bank)                         |                         |
+|                           |                               |                       |                            | [Standard Chartered](#standard-chartered)     |                         |
+|                           |                               |                       |                            | [UOB](#uob)                                   |                         |
 
 
 <br>
@@ -225,6 +225,7 @@ Source:
 |---------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------| 
 | V1      | <img width="90" height="90" alt="image" src="./Wallet/Setel/Setel_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Setel/Setel_V1_ROU.svg" > |
 | V2      | <img width="90" height="90" alt="image" src="./Wallet/Setel/Setel_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/Setel/Setel_V2_ROU.svg" > |
+| V3      | <img width="90" height="90" alt="image" src="./Wallet/Setel/Setel_V3_SQU.svg"> | N/A|
 
 ### ShopeePay
 
@@ -238,6 +239,8 @@ Source:
 | V2      | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/ShopeePay_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/ShopeePay_V2_ROU.svg" > |
 | V3      | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/ShopeePay_V3_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/ShopeePay_V3_ROU.svg" > |
 | V4      | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/ShopeePay_V4_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/ShopeePay_V4_ROU.svg" > |
+| V5      | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/ShopeePay_V5_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/ShopeePay_V5_ROU.svg" > |
+| V6      | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/ShopeePay_V6_SQU.svg"> | <img width="90" height="90" alt="image" src="./Wallet/ShopeePay/ShopeePay_V6_ROU.svg" > |
 
 ### TNG
 
@@ -310,16 +313,35 @@ Source:
 | V1      | <img width="90" height="90" alt="image" src="./BNPL/Ablr/Ablr_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./BNPL/Ablr/Ablr_V1_ROU.svg" > |
 | V2      | <img width="90" height="90" alt="image" src="./BNPL/Ablr/Ablr_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./BNPL/Ablr/Ablr_V2_ROU.svg" > |
 
+<br>
+
 ### Atome
 
 Source:
 
 <img width="150" height="150" alt="image" src="./BNPL/Atome/Atome_SVG.svg">
 
-| Version | Square                                                                       | Round                                                                         |
-|---------|------------------------------------------------------------------------------|-------------------------------------------------------------------------------| 
-| V1      | <img width="90" height="90" alt="image" src="./BNPL/Atome/Atome_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./BNPL/Atome/Atome_V1_ROU.svg" > |
-| V2      | <img width="90" height="90" alt="image" src="./BNPL/Atome/Atome_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./BNPL/Atome/Atome_V2_ROU.svg" > |
+| Version | Square | Round | Long |
+|---------|---------|---------|---------|
+| V1      | <img width="90" height="90" alt="image" src="./BNPL/Atome/Atome_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./BNPL/Atome/Atome_V1_ROU.svg" > | N/A |
+| V2      | <img width="90" height="90" alt="image" src="./BNPL/Atome/Atome_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./BNPL/Atome/Atome_V2_ROU.svg" > | N/A |
+| V3      | <img width="90" height="90" alt="image" src="./BNPL/Atome/Atome_V3_SQU.svg"> | <img width="90" height="90" alt="image" src="./BNPL/Atome/Atome_V3_ROU.svg" > | <img width="200" height="120" alt="image" src="./BNPL/Atome/Atome_V3_LG.svg"> |
+| V4      | <img width="90" height="90" alt="image" src="./BNPL/Atome/Atome_V4_SQU.svg"> | <img width="90" height="90" alt="image" src="./BNPL/Atome/Atome_V4_ROU.svg" > | <img width="200" height="120" alt="image" src="./BNPL/Atome/Atome_V4_LG.svg"> |
+
+<br>
+
+### GrabPayLater
+
+Source:
+
+<img width="150" height="150" alt="image" src="./BNPL/GrabPayLater/GrabPayLater_SVG.svg">
+
+| Version | Square | Round | Long |
+|---------|---------|---------|---------|
+| V1      | N/A | N/A | <img width="200" height="120" alt="image" src="./BNPL/GrabPayLater/GrabPayLater_V1_LG.svg"> |
+| V2      | N/A | N/A | <img width="200" height="120" alt="image" src="./BNPL/GrabPayLater/GrabPayLater_V2_LG.svg"> |
+
+<br>
 
 ### IOUPay
 
@@ -332,6 +354,8 @@ Source:
 | V1      | <img width="90" height="90" alt="image" src="./BNPL/IOUPay/IOUPay_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./BNPL/IOUPay/IOUPay_V1_ROU.svg" > |
 | V2      | <img width="90" height="90" alt="image" src="./BNPL/IOUPay/IOUPay_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./BNPL/IOUPay/IOUPay_V2_ROU.svg" > |
 
+<br>
+
 ### ShopBack
 
 Source:
@@ -342,6 +366,21 @@ Source:
 |---------|------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------| 
 | V1      | <img width="90" height="90" alt="image" src="./BNPL/ShopBack/ShopBack_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./BNPL/ShopBack/ShopBack_V1_ROU.svg" > |
 | V2      | <img width="90" height="90" alt="image" src="./BNPL/ShopBack/ShopBack_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./BNPL/ShopBack/ShopBack_V2_ROU.svg" > |
+
+<br>
+
+### SPayLater
+
+Source:
+
+<img width="150" height="150" alt="image" src="./BNPL/SPayLater/SPayLater_SVG.svg">
+
+| Version | Square | Round | Long |
+|---------|---------|---------|---------|
+| V1      | <img width="90" height="90" alt="image" src="./BNPL/SPayLater/SPayLater_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./BNPL/SPayLater/SPayLater_V1_ROU.svg" > | <img width="200" height="120" alt="image" src="./BNPL/SPayLater/SPayLater_V1_LG.svg"> |
+| V2      | <img width="90" height="90" alt="image" src="./BNPL/SPayLater/SPayLater_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./BNPL/SPayLater/SPayLater_V2_ROU.svg" > | <img width="200" height="120" alt="image" src="./BNPL/SPayLater/SPayLater_V2_LG.svg"> |
+
+<br>
 
 ### Split
 
@@ -381,6 +420,8 @@ Source:
 |---------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------| 
 | V1      | <img width="90" height="90" alt="image" src="./Card/Master/MASTER_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Card/Master/MASTER_V1_ROU.svg" > | <img width="90" height="90" alt="image" src="./Card/Master/MASTER_V1_TRSP.svg" > |
 | V2      | <img width="90" height="90" alt="image" src="./Card/Master/MASTER_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./Card/Master/MASTER_V2_ROU.svg" > | N/A                                                                              |
+| V3      | <img width="90" height="90" alt="image" src="./Card/Master/MASTER_V3_SQU.svg"> | <img width="90" height="90" alt="image" src="./Card/Master/MASTER_V3_ROU.svg" > | N/A                                                                              |
+| V4      | <img width="90" height="90" alt="image" src="./Card/Master/MASTER_V4_SQU.svg"> | <img width="90" height="90" alt="image" src="./Card/Master/MASTER_V4_ROU.svg" > | N/A                                                                              |
 
 ### UnionPay
 
