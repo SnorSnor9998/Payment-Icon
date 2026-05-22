@@ -560,7 +560,7 @@ Source:
 
 | Version | Square                                                                              | Round                                                                               | Long                                                                                 | Big Square                                                                             |
 |---------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------| 
-| V1      | <img width="90" height="90" alt="image" src="./Banks/AgroBank/AgroBank_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Banks/AgroBank/AgroBank_V1_ROU.svg"> | <img width="200" height="120" alt="image" src="./Banks/AgroBank/AgroBank_V1_LG.svg"> | <img width="200" height="120" alt="image" src="./Banks/ArgrBank/AgroBank_V1_BSQU.svg"> |
+| V1      | <img width="90" height="90" alt="image" src="./Banks/AgroBank/AgroBank_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Banks/AgroBank/AgroBank_V1_ROU.svg"> | <img width="200" height="120" alt="image" src="./Banks/AgroBank/AgroBank_V1_LG.svg"> | <img width="200" height="120" alt="image" src="./Banks/AgroBank/AgroBank_V1_BSQU.svg"> |
 
 <br>
 
