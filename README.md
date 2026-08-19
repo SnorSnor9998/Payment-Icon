@@ -28,7 +28,7 @@ Anyone who has access to the repository is welcome to add, modify, or improve th
 | [Alipay+](#alipay-plus)   | [Atome](#atome)               | [Master](#master)     | [Google Pay](#googlepay)   | [Affin Bank](#affin-bank)                     | [FPX](#fpx)             |
 | [Binfinite](#binfinite)   | [GrabPayLater](#grabpaylater) | [UnionPay](#unionpay) | [Samsung Pay](#samsungpay) | [Alliance Bank](#alliance-bank)               | [MaybankQR](#maybankqr) |
 | [Boost](#boost)           | [IOUPay](#ioupay)             | [Gobiz](#gobiz)       |                            | [Ambank](#ambank)                             | [Netspay](#netspay)     |
-| [FavePay](#favepay)       | [ShopBack](#shopback)         | [Paydee](#paydee)     |                            | [Agro Bank](#agro-bank)                       |                         |
+| [FavePay](#favepay)       | [ShopBack](#shopback)         | [Paydee](#paydee)     |                            | [Agro Bank](#agro-bank)                       | [Card](#card-icon)      |
 | [GoPayz](#gopayz)         | [SPayLater](#spaylater)       |                       |                            | [Bank Islam](#bank-islam)                     |                         |
 | [Grab Pay](#grabpay)      | [Split](#split)               |                       |                            | [Bank Muamalat](#bank-muamalat)               |                         |
 | [Lazada](#lazada)         |                               |                       |                            | [Bank Rakyat](#bank-rakyat)                   |                         |
@@ -887,5 +887,17 @@ Source:
 | Version | Square                                                                            | Round                                                                              |
 |---------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------| 
 | V1      | <img width="90" height="90" alt="image" src="./Other/NetsPay/NetsPay_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Other/NetsPay/NetsPay_V1_ROU.svg" > |
+
+### Card Icon
+
+In case you are not showing Mastercard or Visa
+
+Source:
+
+<img width="150" height="150" alt="image" src="./Other/Card/Card_SVG.svg">
+
+| Version | Square                                                                            | Round                                                                              |
+|---------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------| 
+| V1      | <img width="90" height="90" alt="image" src="./Other/Card/Card_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Other/Card/Card_V1_ROU.svg" > |
 
 
