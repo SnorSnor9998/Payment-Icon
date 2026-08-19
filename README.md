@@ -30,21 +30,22 @@ Anyone who has access to the repository is welcome to add, modify, or improve th
 | [Boost](#boost)           | [IOUPay](#ioupay)             | [Gobiz](#gobiz)       |                            | [Ambank](#ambank)                             | [Netspay](#netspay)     |
 | [FavePay](#favepay)       | [ShopBack](#shopback)         | [Paydee](#paydee)     |                            | [Agro Bank](#agro-bank)                       | [Card](#card-icon)      |
 | [GoPayz](#gopayz)         | [SPayLater](#spaylater)       |                       |                            | [Bank Islam](#bank-islam)                     |                         |
-| [Grab Pay](#grabpay)      | [Split](#split)               |                       |                            | [Bank Muamalat](#bank-muamalat)               |                         |
-| [Lazada](#lazada)         |                               |                       |                            | [Bank Rakyat](#bank-rakyat)                   |                         |
-| [MAE](#mae)               |                               |                       |                            | [BNP Paribas](#bnp-paribas)                   |                         |
-| [MCash](#mcash)           |                               |                       |                            | [Boost Bank](#boost-bank)                     |                         |
-| [Presto](#presto)         |                               |                       |                            | [BSN](#bsn)                                   |                         |
-| [Razer](#razer)           |                               |                       |                            | [CIMB](#cimb)                                 |                         |
-| [SarawakPay](#sarawakpay) |                               |                       |                            | [Citibank](#citibank)                         |                         |
-| [Senheng](#senheng)       |                               |                       |                            | [Deutsche Bank](#deutsche-bank)               |                         |
-| [Setel](#setel)           |                               |                       |                            | [GXBank](#gxbank)                             |                         |
-| [Shopee Pay](#shopeepay)  |                               |                       |                            | [HongLeong Bank](#hongleong-bank)             |                         |
-| [TaPay](#tapay)           |                               |                       |                            | [HSBC](#hsbc)                                 |                         |
-| [TNG](#tng)               |                               |                       |                            | [Kuwait Finance House](#kuwait-finance-house) |                         |
-| [Truemoney](#truemoney)   |                               |                       |                            | [Maybank](#maybank)                           |                         |
-| [WechatPay](#wechatpay)   |                               |                       |                            | [MBSB](#mbsb)                                 |                         |
-| [Zapp](#zapp)             |                               |                       |                            | [OCBC](#ocbc)                                 |                         |
+| [Grab Pay](#grabpay)      | [Split](#split)               |                       |                            | [Bank Of China](#bank-of-china)               |                         |
+| [Lazada](#lazada)         |                               |                       |                            | [Bank Muamalat](#bank-muamalat)               |                         |
+| [MAE](#mae)               |                               |                       |                            | [Bank Rakyat](#bank-rakyat)                   |                         |
+| [MCash](#mcash)           |                               |                       |                            | [BNP Paribas](#bnp-paribas)                   |                         |
+| [Presto](#presto)         |                               |                       |                            | [Boost Bank](#boost-bank)                     |                         |
+| [Razer](#razer)           |                               |                       |                            | [BSN](#bsn)                                   |                         |
+| [SarawakPay](#sarawakpay) |                               |                       |                            | [CIMB](#cimb)                                 |                         |
+| [Senheng](#senheng)       |                               |                       |                            | [Citibank](#citibank)                         |                         |
+| [Setel](#setel)           |                               |                       |                            | [Deutsche Bank](#deutsche-bank)               |                         |
+| [Shopee Pay](#shopeepay)  |                               |                       |                            | [GXBank](#gxbank)                             |                         |
+| [TaPay](#tapay)           |                               |                       |                            | [HongLeong Bank](#hongleong-bank)             |                         |
+| [TNG](#tng)               |                               |                       |                            | [HSBC](#hsbc)                                 |                         |
+| [Truemoney](#truemoney)   |                               |                       |                            | [Kuwait Finance House](#kuwait-finance-house) |                         |
+| [WechatPay](#wechatpay)   |                               |                       |                            | [Maybank](#maybank)                           |                         |
+| [Zapp](#zapp)             |                               |                       |                            | [MBSB](#mbsb)                                 |                         |
+|                           |                               |                       |                            | [OCBC](#ocbc)                                 |                         |
 |                           |                               |                       |                            | [Public Bank](#public-bank)                   |                         |
 |                           |                               |                       |                            | [RHB](#rhb)                                   |                         |
 |                           |                               |                       |                            | [Ryt Bank](#ryt-bank)                         |                         |
@@ -588,6 +589,19 @@ Source:
 | V2      | <img width="90" height="90" alt="image" src="./Banks/BankMuamalat/BankMuamalat_V2_SQU.svg"> | <img width="90" height="90" alt="image" src="./Banks/BankMuamalat/BankMuamalat_V2_ROU.svg"> | <img width="200" height="120" alt="image" src="./Banks/BankMuamalat/BankMuamalat_V2_LG.svg"> | <img width="200" height="120" alt="image" src="./Banks/BankMuamalat/BankMuamalat_V2_BSQU.svg"> |
 | V3      | <img width="90" height="90" alt="image" src="./Banks/BankMuamalat/BankMuamalat_V3_SQU.svg"> | <img width="90" height="90" alt="image" src="./Banks/BankMuamalat/BankMuamalat_V3_ROU.svg"> | N/A                                                                                          | N/A                                                                                            |
 | V4      | <img width="90" height="90" alt="image" src="./Banks/BankMuamalat/BankMuamalat_V4_SQU.svg"> | <img width="90" height="90" alt="image" src="./Banks/BankMuamalat/BankMuamalat_V4_ROU.svg"> | N/A                                                                                          | N/A                                                                                            |
+
+<br>
+
+### Bank Of China
+
+Source:
+
+<img width="250" height="100" alt="image" src="./Banks/BankOfChina/BankOfChina_SVG.svg">
+
+| Version | Square                                                                                      | Round                                                                                       | Long                                                                                         | Big Square                                                                                     |
+|---------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------| 
+| V1      | <img width="90" height="90" alt="image" src="./Banks/BankOfChina/BankOfChina_V1_SQU.svg"> | <img width="90" height="90" alt="image" src="./Banks/BankOfChina/BankOfChina_V1_ROU.svg"> | <img width="200" height="120" alt="image" src="./Banks/BankOfChina/BankOfChina_V1_LG.svg"> | <img width="200" height="120" alt="image" src="./Banks/BankOfChina/BankOfChina_V1_BSQU.svg"> |
+
 
 <br>
 
